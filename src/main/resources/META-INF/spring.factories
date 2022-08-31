@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+  top.b0x0.log.trace.aop.TraceLogAspect
