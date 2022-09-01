@@ -11,7 +11,7 @@ import java.util.Map;
  *
  * @author tanglinghan Created By 2022-08-29 16:04
  */
-public class TraceLogMdcTaskDecorator implements TaskDecorator {
+public class TaskDecoratorMDC implements TaskDecorator {
 
     @Override
     public Runnable decorate(@Nullable Runnable runnable) {
