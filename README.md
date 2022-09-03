@@ -2,4 +2,4 @@
 日志集成TraceId
 
 # sample
-https://github.com/wulilinghan/sample-trace-spring
+https://github.com/wulilinghan/sample-custom-spring-boot-stater
